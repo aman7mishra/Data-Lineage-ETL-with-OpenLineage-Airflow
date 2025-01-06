@@ -20,7 +20,6 @@ data-lineage-etl/
 ├── requirements.txt         # Python dependencies
 ├── README.md                # Project documentation
 ├── .env                     # Environment variables
-└── medium_article.md        # Medium article draft
 ```
 
 ## **Setup Instructions**
