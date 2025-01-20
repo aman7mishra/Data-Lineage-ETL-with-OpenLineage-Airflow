@@ -1,5 +1,3 @@
-data-lineage-etl/
-
 # **Data Lineage ETL with OpenLineage & Airflow**
 
 ## **Overview**
