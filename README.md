@@ -25,8 +25,8 @@ data-lineage-etl/
 ## **Setup Instructions**
 ### **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/data-lineage-etl.git
-cd data-lineage-etl
+git clone https://github.com/aman7mishra/Data-Lineage-ETL-with-OpenLineage-Airflow.git
+cd Data-Lineage-ETL-with-OpenLineage-Airflow
 ```
 
 ### **2. Start PostgreSQL & Marquez with Docker**
